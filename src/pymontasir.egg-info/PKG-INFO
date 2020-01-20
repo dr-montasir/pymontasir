@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: pymontasir
+Version: 0.0.1
+Summary: My first python package
+Home-page: https://github.com/dr-montasir/pymontasir
+Author: Montasir Mirghani
+Author-email: contact@montasir.me
+License: UNKNOWN
+Description: ## My first python package
+        
+        ## Usage
+        ```python
+        from pymontasir import say_hello
+        
+        # Generate "Hello, World!"
+        say_hello()
+        
+        # Generate "Hello, Everybody!"
+        say_hello("Everybody")
+        ```
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: License :: OSI Approved :: GNU General Public License v2 or later (GPLv2+)
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
