@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name='pymontasir',
-    version='0.0.1',
+    version='0.0.2',
     description='My first python package',
     py_modules=["pymontasir"],
     package_dir={'': 'src'},
