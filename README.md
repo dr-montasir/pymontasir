@@ -1,6 +1,11 @@
 ## My first python package
 
-## Usage
+### Installation
+```shell
+pip install pymontasir
+```
+
+### Usage
 ```python
 from pymontasir import say_hello
 
